@@ -1,0 +1,22 @@
+table.category-table {
+    display: block;
+    border-spacing: 0;
+    border-collapse: collapse;
+    border: 2px solid #ddd;
+}
+table.category-table th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table.category-table td.selected {
+    background-color: #41ea90;
+}
+
+table.category-table td.excluded {
+    background-color: #f187a6;
+}
+
+table.category-table td.hoverExcluded {
+    background-color: #ab959b;
+}
