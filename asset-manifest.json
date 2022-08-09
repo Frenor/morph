@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/morph/static/css/main.82a4d3fe.css",
-    "main.js": "/morph/static/js/main.5845b1f2.js",
+    "main.js": "/morph/static/js/main.db86abd5.js",
     "static/js/787.67f65844.chunk.js": "/morph/static/js/787.67f65844.chunk.js",
     "index.html": "/morph/index.html",
     "main.82a4d3fe.css.map": "/morph/static/css/main.82a4d3fe.css.map",
-    "main.5845b1f2.js.map": "/morph/static/js/main.5845b1f2.js.map",
+    "main.db86abd5.js.map": "/morph/static/js/main.db86abd5.js.map",
     "787.67f65844.chunk.js.map": "/morph/static/js/787.67f65844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82a4d3fe.css",
-    "static/js/main.5845b1f2.js"
+    "static/js/main.db86abd5.js"
   ]
 }
